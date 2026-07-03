@@ -30,7 +30,7 @@ from helpers import download_file, retrieve_url
 from novaprinter import prettyPrinter, anySizeToBytes
 
 class bitsearch(object):
-    url = 'https://bitsearch.to'
+    url = 'https://bitsearch.eu'
     name = 'Bit Search'
     supported_categories = {
         'all': 'all'
